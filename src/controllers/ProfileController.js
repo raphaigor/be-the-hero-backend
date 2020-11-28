@@ -1,4 +1,4 @@
-const conection = require('../database/con');
+const conection = require('../database/conection');
 const crypto = require('crypto');
 
 module.exports = {
